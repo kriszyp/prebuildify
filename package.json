@@ -1,12 +1,12 @@
 {
   "name": "prebuildify-platform-packages",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Create and package prebuilds for native modules",
   "main": "index.js",
   "dependencies": {
     "execspawn": "^1.0.1",
     "mkdirp-classic": "^0.5.3",
-    "node-abi-latest": "^3.29.0",
+    "node-abi": "^3.40.0",
     "npm-run-path": "^3.1.0",
     "minimist": "^1.2.5",
     "pump": "^3.0.0",
